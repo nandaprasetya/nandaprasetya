@@ -11,6 +11,7 @@ Hi there, I’m Nanda Prasetya 👋<br><br>I’m a passionate Frontend Developer
 ![](https://github-readme-stats.vercel.app/api?username=nandaprasetya&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nandaprasetya&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaprasetya&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://komarev.com/ghpvc/?username=nandaprasetya&color=brightgreen&abbreviated=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nandaprasetya&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
