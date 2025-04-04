@@ -2,7 +2,7 @@
 Hi there, I’m Nanda Prasetya 👋<br><br>I’m a passionate Frontend Developer with a strong interest in Web Design and Development. I love building projects that solve real-world problems and continuously improving my skills in software development.<br><br>I’m also an AWWWARDS Young Jury, contributing to the evaluation of outstanding web design projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandaprasetya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nanda-prasetya) 
 ![](https://komarev.com/ghpvc/?username=nandaprasetya&color=blue&abbreviated=true)
 
 # 💻 Tech Stack:
